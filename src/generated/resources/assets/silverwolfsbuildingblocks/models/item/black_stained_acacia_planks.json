@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "silverwolfsbuildingblocks:block/black_stained_acacia_planks"
+  }
+}
